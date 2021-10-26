@@ -9,4 +9,4 @@ Class practice
 
 BONUS
 6. Style with CSS.
-![Uploading Output html2.png…]()
+<img width="1153" alt="Output html2" src="https://user-images.githubusercontent.com/63668672/138905980-b11a46d1-0055-4473-93e9-a751b736e3f3.png">
